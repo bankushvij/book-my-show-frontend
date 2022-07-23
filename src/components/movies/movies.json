@@ -1,0 +1,38 @@
+[
+
+    {
+        "id": 1,
+        "image" : "https://previews.123rf.com/images/aquir/aquir1311/aquir131100316/23569861-sample-grunge-red-round-stamp.jpg",
+        "title" : "bell Bottom",
+        "actor" : "Akshay Kumar"
+    },
+
+    {
+        "id": 2,
+        "image" : "./card5.webp",
+        "title" : "Shershah",
+        "actor" : "Kaira"
+    },
+
+    {
+        "id": 3,
+        "image" : "./card2.webp",
+        "title" : "Iron-Man",
+        "actor" : "Robert"
+    },
+
+    {
+        "id": 4,
+        "image" : "./card4.webp",
+        "title" : "Thappad",
+        "actor" : "Tapsee Pannu"
+    },
+
+    {
+        "id": 5,
+        "image" : "./card3.webp",
+        "title" : "Thappad",
+        "actor" : "Tapsee Pannu"
+    }
+
+]
